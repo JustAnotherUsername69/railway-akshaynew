@@ -26,6 +26,7 @@ tenacity
 tgCrypto
 xattr
 telegraph
-git+https://github.com/rajanvibes/required01
-git+https://github.com/rajanvibes/required02
-git+https://github.com/rajanvibes/required03
+git+https://github.com/rajanvibes/amriac2mp
+git+https://github.com/rajanvibes/qmbittomrrent-ampi
+git+https://github.com/rajanvibes/ymt-dmlp
+git+https://github.com/rajanvibes/speemdtemst-cmli
