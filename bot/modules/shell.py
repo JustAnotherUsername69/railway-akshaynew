@@ -38,6 +38,6 @@ def shell(update, context):
         message.reply_text('No Reply', parse_mode='Markdown')
 
 
-filters=CustomFilters.owner_filter | CustomFilters.authorized_chat | CustomFilters.authorized_user,
+filters=CustomFilters.owner_filter | CustomFilters.authorized_chat | CustomFilters.authorized_user
                                                   filters=CustomFilters.owner_filter, run_async=True)
 dispatcher.add_handler(SHELL_HANDLER)
